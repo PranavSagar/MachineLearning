@@ -7,8 +7,8 @@
 ![Learned_model_Parameter](https://github.com/PranavSagar/pic/blob/master/learned_model.png)
 
 <img src="https://github.com/PranavSagar/pic/blob/master/learned_model.png" 
-     width="400" 
-     height="500" />
+     width="900" 
+     height="400" />
 - Without data set machine learning wouldn't work
 - This is a very simple model with linear predictive model.
 - lets assume that there is n numbers of data for every X set  
